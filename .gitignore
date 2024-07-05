@@ -145,3 +145,4 @@ Desktop.ini
 # React Native
 .expo/
 *.expo/*
+.env

@@ -116,4 +116,3 @@ const DollarChart = () => {
 
 export default DollarChart;
 
-
